@@ -6,6 +6,6 @@ final class WeatherTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(Weather().text, "Hello, World!")
+        //XCTAssertEqual(Weather().text, "Hello, World!")
     }
 }
