@@ -7,7 +7,6 @@
 
 import Foundation
 
-@available(iOS 15.0.0, *)
 public struct WeatherClient {
     
     let session: URLSessionProtocol
